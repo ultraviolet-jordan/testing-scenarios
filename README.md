@@ -122,3 +122,8 @@
 ![west ardougne forceapproach.gif](https://github.com/ultraviolet-jordan/testing-scenarios/blob/main/gifs/west%20ardougne%20forceapproach.gif?raw=true)
 
 ----
+
+## apnpct on Draynor tree npc
+![apnpct air spell on tree npc](https://github.com/ultraviolet-jordan/testing-scenarios/blob/main/gifs/apnpct%20air%20spell%20on%20tree%20npc.gif?raw=true)
+
+----
