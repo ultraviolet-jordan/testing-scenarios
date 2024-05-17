@@ -129,3 +129,18 @@ Note: It is worth noting that all of these gifs are not single case scenarios. E
 ![apnpct air spell on tree npc](https://github.com/ultraviolet-jordan/testing-scenarios/blob/main/gifs/apnpct%20air%20spell%20on%20tree%20npc.gif?raw=true)
 
 ----
+
+## Pathing to a Loc as it is deleted before reaching
+![pathing to loc target as it is deleted](https://github.com/ultraviolet-jordan/testing-scenarios/blob/main/gifs/pathing%20to%20loc%20target%20as%20it%20is%20deleted.gif?raw=true)
+
+----
+
+## Pathing to an Obj as it is deleted before reaching
+![pathing to obj target as it is deleting](https://github.com/ultraviolet-jordan/testing-scenarios/blob/main/gifs/pathing%20to%20obj%20target%20as%20it%20is%20deleting.gif?raw=true)
+
+----
+
+## Pathing to a Npc as it is deleted before reaching
+![pathing to npc as it is deleted.gif](https://github.com/ultraviolet-jordan/testing-scenarios/blob/main/gifs/pathing%20to%20npc%20as%20it%20is%20deleted.gif?raw=true)
+
+----
