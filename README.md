@@ -144,3 +144,8 @@ Note: It is worth noting that all of these gifs are not single case scenarios. E
 ![pathing to npc as it is deleted.gif](https://github.com/ultraviolet-jordan/testing-scenarios/blob/main/gifs/pathing%20to%20npc%20as%20it%20is%20deleted.gif?raw=true)
 
 ----
+
+## Pathing to a Npc as it does changetype command
+![pathing to npc as it does changetype.gif](https://github.com/ultraviolet-jordan/testing-scenarios/blob/main/gifs/pathing%20to%20npc%20as%20it%20does%20changetype.gif?raw=true)
+
+----
