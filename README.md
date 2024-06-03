@@ -149,3 +149,5 @@ Note: It is worth noting that all of these gifs are not single case scenarios. E
 ![pathing to npc as it does changetype.gif](https://github.com/ultraviolet-jordan/testing-scenarios/blob/main/gifs/pathing%20to%20npc%20as%20it%20does%20changetype.gif?raw=true)
 
 ----
+
+<video src='https://media.itspazaz.com/2024/06/osclient_Xu4k5cT3d2.mp4' width=180/>
