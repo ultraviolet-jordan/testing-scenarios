@@ -150,4 +150,5 @@ Note: It is worth noting that all of these gifs are not single case scenarios. E
 
 ----
 
-<video src='https://media.itspazaz.com/2024/06/osclient_Xu4k5cT3d2.mp4' width=180/>
+## Repathing to an Npc on your last waypoint
+https://github.com/ultraviolet-jordan/testing-scenarios/assets/76214316/18492c0e-aecb-48eb-b0ba-80454c1ec1d2
