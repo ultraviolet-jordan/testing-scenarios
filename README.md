@@ -152,3 +152,14 @@ Note: It is worth noting that all of these gifs are not single case scenarios. E
 
 ## Repathing to an Npc on your last waypoint
 https://github.com/ultraviolet-jordan/testing-scenarios/assets/76214316/18492c0e-aecb-48eb-b0ba-80454c1ec1d2
+
+
+## Not repathing to an Npc not on your last waypoint
+https://github.com/ultraviolet-jordan/testing-scenarios/assets/76214316/74851b05-c0da-4fe1-98ad-c13bee168706
+
+## Repathing to a Player on your last waypoint (notice the collision)
+https://github.com/ultraviolet-jordan/testing-scenarios/assets/76214316/0d1969ba-40dc-49e4-a05f-b13dbea37f29
+
+
+## Repathing to a Player on your last waypoint 2
+https://github.com/ultraviolet-jordan/testing-scenarios/assets/76214316/525f6ea0-26aa-4bfe-90e8-d10b24847812
