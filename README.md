@@ -166,9 +166,11 @@ https://github.com/ultraviolet-jordan/testing-scenarios/assets/76214316/525f6ea0
 
 ## edge-case mechanic (bug).
 Note: The bug occurs on the first player route request after log-in, as long as they have _not_ moved at all (or teleported). If the route request _fails_, the player will begin _walking_ towards coordinates [0,0]; only stopping if the path is blocked along the way.
-https://github.com/user-attachments/assets/9ce894c4-7b89-4afa-b423-89f31ec41cfc
+
+https://github.com/ultraviolet-jordan/testing-scenarios/assets/76214316/9ce894c4-7b89-4afa-b423-89f31ec41cfc
 
 ## Fireamking edge case #1
 Note: When player does teleport it sets the last x and z for following, so this player POV is teleporting off and back on the log technically like 4 times.
-https://github.com/user-attachments/assets/11759cf7-9f4c-497b-b63f-7c94aeaabe13
+
+https://github.com/ultraviolet-jordan/testing-scenarios/assets/76214316/11759cf7-9f4c-497b-b63f-7c94aeaabe13
 
