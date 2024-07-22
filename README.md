@@ -169,7 +169,7 @@ Note: The bug occurs on the first player route request after log-in, as long as 
 
 https://github.com/ultraviolet-jordan/testing-scenarios/assets/76214316/9ce894c4-7b89-4afa-b423-89f31ec41cfc
 
-## Fireamking edge case #1
+## Firemaking edge case #1
 Note: When player does teleport it sets the last x and z for following, so this player POV is teleporting off and back on the log technically like 4 times.
 
 https://github.com/ultraviolet-jordan/testing-scenarios/assets/76214316/11759cf7-9f4c-497b-b63f-7c94aeaabe13
