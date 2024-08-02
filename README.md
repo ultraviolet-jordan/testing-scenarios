@@ -174,3 +174,8 @@ Note: When player does teleport it sets the last x and z for following, so this 
 
 https://github.com/ultraviolet-jordan/testing-scenarios/assets/76214316/11759cf7-9f4c-497b-b63f-7c94aeaabe13
 
+## Walking with modal open until queued.
+You can walk even with a modal open. You stop walking when the player has a model open && has something in the queue.
+In the gif, I am running into a zone that triggers an area queue which causes me to stop walking.
+![Walking with interface open until queued.gif](https://github.com/ultraviolet-jordan/testing-scenarios/blob/main/gifs/walk%20with%20interface%20open%20and%20area%20queue.gif?raw=true)
+
