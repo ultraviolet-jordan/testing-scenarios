@@ -1,5 +1,7 @@
 Note: It is worth noting that all of these gifs are not single case scenarios. Every Obj, Npc, Loc, etc that use the same properties all operate in the same exact way.
 
+Everything you see in RuneScape happens for a reason. The way you/npcs move, turn, messages, face. Every single pixel that changes MATTERS!
+
 ## AP to OP Switching
 ![ap to op switching.gif](https://github.com/ultraviolet-jordan/testing-scenarios/blob/main/gifs/ap%20to%20op%20switching.gif?raw=true)
 
